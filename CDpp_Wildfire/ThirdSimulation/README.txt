@@ -1,0 +1,4 @@
+-In this simulation, the land will be more complex, including more possible environment alternatives, building off the second sim.
+-The checkfire macro is also improved, to make sure if the entire neighbourhood of a cell is burnt, then the cell cannot catch on fire
+-This simulation includes a dense forest area that also contains areas of agriculture and no vegetation, with some lakes
+-The video in the simulation was sped up to 100 fps

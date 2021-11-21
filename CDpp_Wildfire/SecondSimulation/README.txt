@@ -1,0 +1,2 @@
+-In this simulation, the majority of the land will be agricultural land, this takes the longest to burn with the weakest fire intensity other than water/no veg.
+-Also, to add more complexity, instead of just burning out, the intensity of the fire will increase each time unit until burnout

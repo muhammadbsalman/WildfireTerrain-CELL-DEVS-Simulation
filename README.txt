@@ -1,0 +1,2 @@
+***WILDFIRE TERRAIN SIMULATION***
+-This project contains simulations done in CD++ using CELL-DEVS formalisms to simulate a wildfire terrrain burning under different environmental definitions as defined in the report

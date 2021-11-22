@@ -11,6 +11,6 @@
 ***INTSRUCTIONS TO SIMULATE***
 -SIMU.EXE and cygwin1.dll should be in the folder
 -Upon running the .BAT file, a .log file will be generated
--The .log, .val, .ma. and .pal files can be uploaded to https://simulationeverywhere.github.io/CD-WebViewer-2.0/index.html
+-The .log, .val, .ma. and .pal files can be uploaded to https://simulationeverywhere.github.io/CD-WebViewer-2.0/index.html or http://cell-devs.sce.carleton.ca/intranet/webviewer/ for simulation #3
 -Click load simulation, Simulation Layer, and then Load widget
 -Upon clicking the play button, a simulation in live time can be seen
